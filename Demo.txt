@@ -1,0 +1,2 @@
+This is Text Demo File for SDM Practicals.
+This document is only for understanding commands to gain handy experience on GitHub. 
